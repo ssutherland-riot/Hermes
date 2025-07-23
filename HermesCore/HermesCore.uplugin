@@ -14,7 +14,9 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"EnabledByDefault": true,
+	// <riot> #NoDefaultEnabled3rdPartyPlugins
+	"EnabledByDefault": false,
+        // </riot>
 	"Modules": [
 		{
 			"Name": "HermesServer",
